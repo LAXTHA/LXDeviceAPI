@@ -1,3 +1,3 @@
 # LXDeviceAPI
 
-## Documentation : https://laxtha.net/lxdeviceapi
+## Documentation : http://laxtha.net/lxdeviceapi
