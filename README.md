@@ -1,7 +1,7 @@
-![LXDeviceAPI](http://laxtha.net/wp-content/uploads/2017/03/VISD-10_LOGO_LXDeviceAPI_256x256.png)
+![LXDeviceAPI](Images/VISD-10_LOGO_LXDeviceAPI_256x256.png)
 ## API for bio signal measuring devices.
 
-![LXDeviceAPI](http://laxtha.net/wp-content/uploads/2017/02/System-Architecture_LXDeviceAPI_780x420.png)
+![LXDeviceAPI](Images/System-Architecture_LXDeviceAPI_780x420.png)
 ### Features 
 - Real time bio signal data streaming from measuring device to your application program.
 - Extremely stable and reliable thread for real time streaming data.
