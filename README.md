@@ -18,4 +18,6 @@
 - Supprting OS : Windows 10,  8.1, 8, 7.
 - Recommended IDE for developing the application program : Visual Studio Communitity 2015. Visual C++ . 
 - It’s free !.
+### API Function Call Sequence
+![API Function](Images/Function-Call-Sequence_LXDeviceAPI_780x543.png)
 ## Full Documentation : http://laxtha.net/lxdeviceapi
