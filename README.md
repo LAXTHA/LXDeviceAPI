@@ -1,5 +1,4 @@
 ![LXDeviceAPI](http://laxtha.net/wp-content/uploads/2017/03/VISD-10_LOGO_LXDeviceAPI_256x256.png)
-# LXDeviceAPI
 ## API for bio signal measuring devices.
 ## Full Documentation : http://laxtha.net/lxdeviceapi
 ![LXDeviceAPI](http://laxtha.net/wp-content/uploads/2017/02/System-Architecture_LXDeviceAPI_780x420.png)
